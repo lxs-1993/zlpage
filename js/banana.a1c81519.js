@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["banana"],{"65fb":function(t,e,n){"use strict";n.r(e);var a=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",[t._v(" 新娘：李英华 ")])},i=[],o=n("5530"),u=n("2f62"),c={data:function(){return{obj:{}}},methods:Object(o["a"])({},Object(u["b"])(["hideNav"])),mounted:function(){this.hideNav(),this.obj=this.$route.query}},r=c,s=n("2877"),b=Object(s["a"])(r,a,i,!1,null,"3175b18e",null);e["default"]=b.exports}}]);
+//# sourceMappingURL=banana.a1c81519.js.map
